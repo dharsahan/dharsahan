@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi there 👋
+
+Welcome to my GitHub profile! I'm a passionate developer who loves coding and building software.
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,java,js,py,rust,ts)](https://skillicons.dev)
+
+### 🎨 Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,vue,angular,tailwind,bootstrap,nextjs,redux,sass)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,graphql,mongodb,mysql,postgres,redis,spring)](https://skillicons.dev)
+
+### 🔧 Tools & DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,github,gitlab,kubernetes,linux,jenkins,nginx)](https://skillicons.dev)
 
 <!--
 **dharsahan/dharsahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
