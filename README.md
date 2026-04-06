@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=I'm%20Dharshan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Student.%20Coder.%20Professional%20Segfault%20Survivor.&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Compiling+my+dreams+since+20XX+%F0%9F%92%AD;Rust+borrow+checker+1%2C+Me+0+%F0%9F%98%AD;Go+routines+go+brrr+%F0%9F%90%B9;Segfaults+are+just+surprise+features+%F0%9F%92%A5;Learning+to+make+computers+do+cool+stuff+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Compiling+my+dreams+since+2007+%F0%9F%92%AD;Rust+borrow+checker+1%2C+Me+0+%F0%9F%98%AD;Go+routines+go+brrr+%F0%9F%90%B9;Segfaults+are+just+surprise+features+%F0%9F%92%A5;Learning+to+make+computers+do+cool+stuff+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <br/>
 
