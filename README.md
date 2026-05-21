@@ -6,8 +6,8 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/dharsahan?label=Followers&style=social)](https://github.com/dharsahan)
-[![Profile views](https://komarev.com/ghpvc/?username=dharsahan&label=Humans+who+visited&color=orange&style=flat)](https://github.com/dharsahan)
+[![GitHub followers](https://img.shields.io/github/followers/dharshan-X?label=Followers&style=social)](https://github.com/dharshan-X)
+[![Profile views](https://komarev.com/ghpvc/?username=dharshan-X&label=Humans+who+visited&color=orange&style=flat)](https://github.com/dharshan-X)
 ![](https://img.shields.io/badge/Status-Debugging-red?style=flat&logo=bugsnag)
 ![](https://img.shields.io/badge/Powered%20By-Coffee%20%26%20Panic()-brown?style=flat&logo=coffeescript)
 
@@ -85,11 +85,11 @@ impl Me {
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharsahan&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshan-X&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharsahan&theme=redical&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshan-X&theme=redical&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -129,8 +129,8 @@ Being Normal  ██░░░░░░░░░░░░░  10%  Not my strong 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharsahan)
-[![Twitter / X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dharsahan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshan-X)
+[![Twitter / X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dharshan-X)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://yoursite.com)
@@ -149,7 +149,7 @@ Being Normal  ██░░░░░░░░░░░░░  10%  Not my strong 
 
 <br/>
 
-![Snake animation](https://github.com/dharsahan/dharsahan/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/dharshan-X/dharshan-X/blob/output/github-snake-dark.svg)
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontSize=20&fontColor=fff&text=Thanks%20for%20stopping%20by!%20%F0%9F%91%8B&fontAlignY=65"/>
